@@ -1,2 +1,2 @@
-# Portfolio
-Quantitative finance - Algorithmic trading - Risk Management - Machine learning 
+# Academic Projects and Presentations
+MSc Financial Engineering – HEC Montréal
