@@ -1,2 +1,2 @@
 # Portfolio
-Quantitative finance - Algorithmic trading - Machine learning 
+Quantitative finance - Algorithmic trading - Risk Management - Machine learning 
